@@ -2,10 +2,10 @@
     "name": "Minty Caller - Sid",
     "short_name": "Minty",
     "description": "A Sample WebRTC app by Sid.",
-    "start_url": ".",  // or index.html if you want the full path
-    "display": "standalone", // standalone, fullscreen, minimal-ui, browser
+    "start_url": ".",
+    "display": "standalone",
     "background_color": "#ffffff",
-    "theme_color": "#007bff",  // Change to your primary color
+    "theme_color": "#007bff",
     "icons": [
       {
         "src": "icons/icon-192x192.png",
