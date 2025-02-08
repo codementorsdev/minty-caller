@@ -31,30 +31,16 @@ export const appConfig = {
 export const users = [
   {
     id: 13087850,
-    name: "Olivia Brown",
+    name: "Sid",
     login: "olivia.brown88",
     password: "olivia.brown88",
     color: "#34ad86"
   },
   {
     id: 13087851,
-    name: "David Lee",
+    name: "Guest",
     login: "dave.lee42",
     password: "dave.lee42",
     color: "#077988"
-  },
-  {
-    id: 13087852,
-    name: "Sophia Martinez",
-    login: "sophia.martinez77",
-    password: "sophia.martinez77",
-    color: "#13aaae"
-  },
-  {
-    id: 13087853,
-    name: "Michael Rivera",
-    login: "michael.riv89",
-    password: "michael.riv89",
-    color: "#056a96"
   }
 ];
